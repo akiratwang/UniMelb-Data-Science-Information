@@ -4,7 +4,7 @@ The official handbook for the Data Science major can be [viewed here](https://ha
 
 <p align="center">
   <br>
-  <img src="https://github.com/akiratwang/UniMelb-Data-Science/blob/master/true.png" width="350" title="hover text">
+  <img src="https://github.com/akiratwang/UniMelb-Data-Science-Information/blob/main/true.png" width="350" title="hover text">
   <p align="center"> 
     <i> Data Science = big brain excel? 
     </i> 
