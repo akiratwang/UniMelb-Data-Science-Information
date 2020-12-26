@@ -20,12 +20,9 @@ If you're from COMP20003 (or any subject that uses the C language), I have writt
 For a (very very) neat timetable planner for university, visit my mate Rohyl's [lookahead](https://lookahead.rohyl.io/) which has the cleanest interface ever and has saved me numerous time for sorting out my timetable. 
 
 ## About Me
-- Data Engineer, Consultant at DXC Technology
+- Tutor for Applied Data Science, Foundations of Computing, and Algorithms & Data Structures
+- Former Data Engineer Lead at DXC Technology
 - Graduated 2019 with a major in Data Science (UniMelb)
-- Tutor for Applied Data Science, Foundations of Computing, and Algorithms & Data Structres
-- Experienced as a Cloud Architect (AWS, Azure and GCP), Data Engineer and Data Analyst. 
-- I love developing assorted Python scripts *to automate the boring stuff* 
-- Strongly believes that sharepoint databases and anything resembling Microsoft Power Automate should cease to exist
 
 Always up for a chat to help out, feel free to reach out via [linkedin](https://www.linkedin.com/in/akira-t-wang/). 
 
