@@ -37,11 +37,6 @@ Always up for a chat to help out, feel free to reach out via [linkedin](https://
 - Elements of Data Processing (COMP20008)
 - Machine Learning (COMP30027)
 
-### My chosen CIS Electives:
-- Algorithm Data Structures (COMP20003)
-- Artificial Intelligence (COMP30024)
-- Information Security and Privacy (INFO30006)
-
 ### Core Math Subjects:
 There's a lot more maths than you think (the major shares the same core maths as Actuarial Science up to second year), and so I highly recommend you take either AM1 / AM2 or Real Analysis, or else Probability will be a hard grind to do well in.
 - Calculus 2 (MAST10006)
@@ -51,18 +46,27 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Linear Statistical Models (MAST30025)
 - Modern Applied Statistics (MAST30027)
 
+### My chosen CIS Electives:
+- Algorithm Data Structures (COMP20003)
+- Artificial Intelligence (COMP30024)
+- Information Security and Privacy (INFO30006)
+
 ### My chosen Science Electives:
 - Physics 1 (PHYC10003)
 - Fundamentals of Chemistry (CHEM10007)
 - Engineering Systems Design 2 (ENGR10003)
 - Science and Internship Program (SCIE30002)
 
-### My chosen Breadths:
-- Japanese 3 (JAPN10007)
-- Music in the Culture of the Renaissance (MUSI30011)
-- High Baroque Music of the German World (MUSI30014)
-- Music Health (MUSI20150)
-- Positive Leadership and Careers (EDUC30072)
+### My Recommended CIS Electives:
+- Algorithm Data Structures (COMP20003)
+- Artificial Intelligence (COMP30024)
+- Information Security and Privacy (INFO30006)
+- Object Oriented Software Devevelopment (SWEN20003)
+- Models of Computation (COMP30026)
+
+### My Recommended Maths Electives:
+- Data Analysis 1 (MAST10010)
+- Real Analysis (MAST20026)
 
 ## Subject Reviews (Pooled from a variety of opinions)
 **Foundations of Computing**:  
