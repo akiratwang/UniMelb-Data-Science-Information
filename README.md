@@ -20,8 +20,9 @@ If you're from COMP20003 (or any subject that uses the C language), I have writt
 For a (very very) neat timetable planner for university, visit my mate Rohyl's [lookahead](https://lookahead.rohyl.io/) which has the cleanest interface ever and has saved me numerous time for sorting out my timetable. 
 
 ## About Me
-- Tutor for Applied Data Science, Foundations of Computing, and Algorithms & Data Structures
-- Former Data Engineer Lead at DXC Technology
+- Tutor for COMP10001, COMP20003 (formerly), COMP20008, INFO20003, MAST30034
+- Head Tutor (Summer Term) for COMP10001
+- Former Lead Data Engineer at DXC Technology
 - Graduated 2019 with a major in Data Science (UniMelb)
 
 Always up for a chat to help out, feel free to reach out via [linkedin](https://www.linkedin.com/in/akira-t-wang/). 
@@ -136,7 +137,7 @@ There's a lot more maths than you think (the major shares the same core maths as
 - **My plea: Honestly, people who think sharepoints with excel spreadsheets are "databases" should just end themselves. Become a good Database admin - document and normalize your work, make it easier for everyone else please.**
 
 ## So why Data Science?
-It's actually just statistics rebranded with computer science. You're essentially combining the brains of a statistician with the brawn of computing power. If you love working with data (ethical or non-ethical) or a keen to analyze things, Data Science is definitely a great field to go into.
+It's actually just statistics rebranded with computer science. You're essentially combining the brains of a statistician with the brawn of computing power. If you love working with data (ethical or non-ethical) or loves to analyze things, Data Science is definitely a great field to go into.
 
 #### Work and Job Pathway as a Graduate
 You can be accepted for a wide variety of roles inlcuding (but not limited to):  
@@ -162,6 +163,7 @@ For companies, here are some of the places that you might want to apply:
 - Department of Defence
 - Department of Industry, Science, Energy & Resources
 - Accenture
+- Atlassian
 - Coles
 - ATO
 - Vic Roads
