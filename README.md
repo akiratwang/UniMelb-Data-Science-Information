@@ -1,5 +1,5 @@
 ## Welcome!
-Hi, this is my repository which gives information about the UniMelb undegraduate Data Science major.    
+Hi, this is my repository which gives information about the UniMelb undergraduate Data Science major.    
 The official handbook for the Data Science major can be [viewed here](https://handbook.unimelb.edu.au/2019/components/b-sci-major-8).
 
 <p align="center">
@@ -20,15 +20,17 @@ If you're from COMP20003 (or any subject that uses the C language), I have writt
 For a (very very) neat timetable planner for university, visit my mate Rohyl's [lookahead](https://lookahead.rohyl.io/) which has the cleanest interface ever and has saved me numerous time for sorting out my timetable. 
 
 ## About Me
-- Tutor for COMP10001, COMP20003 (formerly), COMP20008, INFO20003, MAST30034
-- Head Tutor (Summer Term) for COMP10001
-- Former Lead Data Engineer at DXC Technology
-- Graduated 2019 with a major in Data Science (UniMelb)
+- Tutor for COMP10001, COMP20003 (formerly), COMP20008, INFO20003.
+- Head Tutor (Summer Term) for COMP10001.
+- Subject Coordinator for MAST30034.
+- Former Lead Data Engineer at DXC Technology.
+- Currently working on some assorted contracting jobs in the Data Engineering and Data Science sectors.
+- Graduated in 2019 with a major in Data Science (UniMelb).
 
 Always up for a chat to help out, feel free to reach out via [linkedin](https://www.linkedin.com/in/akira-t-wang/). 
 
 ## The "Data Science" Major Subjects
-### Captstone Project (akin to IT project for CompSci students):
+### Capstone Project (akin to IT project for CompSci students):
 - Applied Data Science (MAST30034)
 
 ### Core Computing & Information Systems (CIS) Subjects:
@@ -39,7 +41,7 @@ Always up for a chat to help out, feel free to reach out via [linkedin](https://
 - Machine Learning (COMP30027)
 
 ### Core Math Subjects:
-There's a lot more maths than you think (the major shares the same core maths as Actuarial Science up to second year), and so I highly recommend you take either AM1 / AM2 or Real Analysis, or else Probability will be a hard grind to do well in.
+There are a lot more maths than you think (the major shares the same core maths as Actuarial Science up to the second year), and so I highly recommend you take either AM1 / AM2 or Real Analysis, or else Probability will be a hard grind to do well in.
 - Calculus 2 (MAST10006)
 - Linear Algebra (MAST10007)
 - Probability (MAST20004)
@@ -62,7 +64,7 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Algorithm Data Structures (COMP20003)
 - Artificial Intelligence (COMP30024)
 - Information Security and Privacy (INFO30006)
-- Object Oriented Software Devevelopment (SWEN20003)
+- Object-Oriented Software Development (SWEN20003)
 - Models of Computation (COMP30026)
 
 ### My Recommended Maths Electives:
@@ -78,35 +80,36 @@ There's a lot more maths than you think (the major shares the same core maths as
 
 **Foundations of Algorithms**:  
 - Introduction to basic sorting algorithms and the C programming language (ha ha ha C code go brrrr).
-- Makes you appreciate memory management in Python because of `malloc` (though `calloc` is better imo).
-- Tutors are amazing and can actually teach. (**Shout out to my tutor Alex Zable**).
+- Makes you appreciate memory management in Python because of `malloc` (though `calloc` is better IMO).
+- Tutors are amazing and can teach. (**Shout out to my tutor Alex Zable**).
 - Learn to use `valgrind` if you don't want `Segmentation Faults`, and `gdb` to avoid debugging nightmares.
 
 **Elements of Data Processing**:  
-- *I personally think this subject is worth taking regardless of what you've heard. Real world data is much worse and there's no one telling you what to do. If you went to get better at this kind of stuff, suss out kaggle datasets and perform your own data cleaning and analysis*
-- Teaches the concepts of ETL (Extract, Transform and Load), data processing and basic privacy concerns around data via Python (Jupyter Notebooks).
-- You'll find that a lot of the fun stuff (such as ML and research) need to have a good ETL pipeline setup in order for it to be efficient and working.
+- *I think this subject is worth taking regardless of what you've heard. Real-world data is much worse and there's no one telling you what to do. If you went to get better at this kind of stuff, suss out Kaggle datasets and perform your data cleaning and analysis*
+- Teaches the concepts of ETL (Extract, Transform and Load), data processing, and basic privacy concerns around data via Python (Jupyter Notebooks).
+- You'll find that a lot of the fun stuff (such as ML and research) needs to have a good ETL pipeline setup for it to be efficient and working.
+- A subject that you remember as being interesting and useful in hindsight. 
 
 **Database Systems**:
-- *I just want to say that this is one of the most useful subjects I have taken in undergrad. I'm using a decent chunk of SQL (Microsoft SQL Server or IPython-sql library) for my work and the material I learned from this subject has come in handy*
+- *I just want to say that this is one of the most useful subjects I have taken in undergrad. I'm using a decent chunk of SQL (Microsoft SQL Server or IPython-SQL library) for my work and the material I learned from this subject has come in handy*
 - The theory content is quite useful, but the concepts taught are very applicable in industry.
-- 1st assignment is a bit iffy since it's a conceptual diagram of an ER-Model, but holy heck do I wish I payed more attention and put more effort in it as industry projects rely heavily on "good concepts".
+- 1st assignment is a bit iffy since it's a conceptual diagram of an ER-Model, but holy heck do I wish I paid more attention and put more effort into it as industry projects rely heavily on "good concepts".
 - The stuff you learn here will help you for ML, AI, and any Data Science or Data Analytics position.
 
 **Algorithm Data Structures**:
-- By far the best 2nd year CIS subject ever (better alternative to Design of Algorithms).
+- By far the best 2nd year CIS subject ever (a better alternative to Design of Algorithms).
 - Goes through all the great algorithms, _including_ path-finding algorithms (unlike DoA which covers hashing and compression instead).
-  - For example, the second assignment is usually on path finding and very basic artificial intelligence implementations to solve a `15 puzzle` or to even play `pacman`!
+  - For example, the second assignment is usually on pathfinding and very basic artificial intelligence implementations to solve a `15 puzzle` or to even play `pacman`!
 - Assignments are great fun, and after FoA you should (hopefully) be experienced enough in C to appreciate it.
 - If you're rusty on C don't worry as the first few lectures are revision (we recover `malloc` as well for eng comp kids).
 - The 2018 Exam question about electrical outages landed me a Graduate offer at EssentialEnergy (ayyyy).
 - *Students who never had to experience dimefox / nutmeg gonna hate and not appreciate. JupyterHub is so good compared to dimefox and nutmeg servers.*
-- *I want to add on by saying you guys are super lucky, JupyterHub has only recently become a more commercially used way of showing visualizations and running code on the cloud and you people have first hand experience of it!*
+- *I want to add on by saying you guys are super lucky, JupyterHub has only recently become a more commercially used way of showing visualizations and running code on the cloud and you people have the first-hand experience of it!*
 
 **Artificial Intelligence**:
-- First third of the lectures are review of basic search algorithms (ADS students will find it a breeze).
+- First third of the lectures is the revision of basic search algorithms (ADS students will find it a breeze).
 - Assignments **ARE AMAZINGLY FUN**.
-- Hard and conceptual tutorial questions (although there is no full solution) but are quite useful in expanding your problem solving.
+- Hard and conceptual tutorial questions (although there is no full solution) but are quite useful in expanding your problem-solving.
 - Notation for Probability (YES PROB IS IN THE SUBJECT) uses logical AND/OR/NOT, so you have been warned.
 - If you loved ADS or DoA, you'll love this even more (and it's beneficial to both ML and Applied Data Science).
 
@@ -118,9 +121,9 @@ There's a lot more maths than you think (the major shares the same core maths as
 - 2019 Comment: Tim Baldwin snaked us for Exam Section D rip marks.
 
 **Applied Data Science (Capstone Project):**
-- A very informative subject to make an overall great learning experience
-- Project is very fun and enjoyable if you love applying different techniques you've learnt over the previous subjects.
-- Group project is very dependent on how good your team works together, so find peers that have a similar work ethic as you!
+- A very informative subject to make an overall great learning experience. I have personally reworked and redesigned the subject over the semesters to be applied and industry-oriented. 
+- The final project is very fun and enjoyable if you love applying different techniques you've learned over the previous subjects.
+- Group project is very dependent on how well your team works together, so find peers that have a similar work ethic as you!
 - The **only** subject IMO (apart from IT Project) where you can put as little or as much time as you want. 
 - This is probably the only subject in undergrad Data Science where you have the freedom to use whatever to solve industry problems.
 
@@ -130,17 +133,17 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Yao-Ban is the best lecturer (you'll have him for LSM).
 
 ## Final Tips
-- I highly recommend you go learn LaTeX, which can be easily done through www.overleaf.com. Not only does it make your assignments look amazing, it's a great way of making great notes and reports (which employers love).
+- I highly recommend you go learn LaTeX, which can be easily done through www.overleaf.com. Not only does it make your assignments look amazing, but it's also a great way of making great notes and reports (which employers love).
 - DO try your best, but WAM isn't everything (I have a WAM in the 70s) and anything above a 65+ will land you a job provided you network and apply yourself well.
-- Try to do projects outside of university. A lot of job offers were as a result of several projects I completed outside of University.
+- Try to do projects outside of the university. A lot of job offers were as a result of several projects I completed outside of University.
 - Be active in your tutorial and labs! It helps the tutor **A LOT** and will help you learn better.
-- **My plea: Honestly, people who think sharepoints with excel spreadsheets are "databases" should just end themselves. Become a good Database admin - document and normalize your work, make it easier for everyone else please.**
+- **My plea: Honestly, people who think SharePoint with excel spreadsheets are "databases" should just end themselves. Become a good Database admin - document and normalize your work, make it easier for everyone else please.**
 
 ## So why Data Science?
-It's actually just statistics rebranded with computer science. You're essentially combining the brains of a statistician with the brawn of computing power. If you love working with data (ethical or non-ethical) or loves to analyze things, Data Science is definitely a great field to go into.
+It's just statistics rebranded with computer science. You're essentially combining the brains of a statistician with the brawn of computing power. If you love working with data (ethical or non-ethical) or loves to analyze things, Data Science is a great field to go into. It's quite a broad field and you may end up specializing in Data Engineering, Data Analytics, or Machine Learning.
 
 #### Work and Job Pathway as a Graduate
-You can be accepted for a wide variety of roles inlcuding (but not limited to):  
+You can be accepted for a wide variety of roles including (but not limited to):  
 - Junior Data Scientist
 - Consultant
 - Technical Consultant
@@ -159,7 +162,7 @@ For companies, here are some of the places that you might want to apply:
 - Microsoft
 - DXC 
 - Essential Energy
-- Big 4 (KPMG, Deloite)
+- Big 4 (KPMG, Deloitte)
 - Department of Defence
 - Department of Industry, Science, Energy & Resources
 - Accenture
